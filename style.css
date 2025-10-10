@@ -15,10 +15,6 @@ body {
   padding: 0;
   background-color: #fffdfa;
 }
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
 /* ------ BODY ------ */
 
 /* ------ NAVIGATION BAR ------ */
@@ -300,8 +296,6 @@ figure img {
   background-color: #c4beb5;
   padding: 20px;
   position: absolute;
-  bottom: 0;
-  width: 100%;
 }
 #socials a {
   text-decoration: none;
