@@ -14,6 +14,10 @@ body {
   margin: 0;
   padding: 0;
   background-color: #fffdfa;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
 }
 /* ------ BODY ------ */
 
@@ -295,6 +299,7 @@ figure img {
   align-items: center;
   background-color: #c4beb5;
   padding: 20px;
+  margin-top: auto;
 }
 #socials a {
   text-decoration: none;
