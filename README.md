@@ -31,6 +31,10 @@ Users can switch to Terminal mode if they prefer working in a terminal.
 
 [chroot](https://chroot-web.vercel.app/)
 
+## 🧾 Changes
+
+[Changelog](https://github.com/CFY98/Chroot/blob/main/CHANGELOG.md)
+
 ## 📸 Screenshots (Tablet View)
 
 ![Landing Page](./public/screenshots/landingpage.png)
