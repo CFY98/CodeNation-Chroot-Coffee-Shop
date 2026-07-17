@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 - `Fixed` for any bug fixes.
 - `Improved` for performance improvements.
 
-## [[v0.3.0] - React Conversion](https://github.com/CFY98/Chroot/compare/c715cd2...8deb8ab)
+## [[v0.3.0] - React Conversion](https://github.com/CFY98/Chroot/compare/v0.2.1...v0.3.0)
 ### Added
 - React component-based UI
 - CSS Modules for React components
