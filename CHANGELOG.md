@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 - `Fixed` for any bug fixes.
 - `Improved` for performance improvements.
 
-## [[v0.3.0] - React Conversion](https://github.com/CFY98/Chroot/compare/v0.2.1...v0.3.0)
+## [[v0.3.0] - 2026-05-15 - React Conversion](https://github.com/CFY98/Chroot/compare/v0.2.1...v0.3.0)
 ### Added
 - React component-based UI
 - CSS Modules for React components
@@ -27,7 +27,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 ### Fixed
 - PDF receipt has custom css module to ensure receipt items don't "break" across pages
 
-## [[v0.2.1] - SPA-router + Dual Modes](https://github.com/CFY98/Chroot/tree/v0.2.1)
+## [[v0.2.1] - 2026-05-07 - SPA-router + Dual Modes](https://github.com/CFY98/Chroot/tree/v0.2.1)
 ### Added
 - Visual mode with point-and-click navigation
 - Toast notifications
@@ -42,7 +42,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 ### Improved
 - Carousel from legacy version includes disablers preventing jumping between slides during manual navigation
 
-## [[v0.2.0] - Terminal Mode Prototype](https://github.com/CFY98/Chroot/tree/v0.2.0)
+## [[v0.2.0] - 2026-05-07 - Terminal Mode Prototype](https://github.com/CFY98/Chroot/tree/v0.2.0)
 ### Added
 - Terminal input to utilise Git-style commands for basket UI
 - Local Storage to track live basket updates
@@ -56,7 +56,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 ### Removed
 - Image carousel
 
-## [[v0.1.0] - Initial Brief](https://github.com/CFY98/Chroot/tree/v0.1.0)
+## [[v0.1.0] - 2026-03-20 - Initial Brief](https://github.com/CFY98/Chroot/tree/v0.1.0)
 ### Added
 - Multi-page navigation with `anchor` links
 - Rotating hero section with previous/next controls for carousel
