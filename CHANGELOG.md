@@ -6,8 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 - `Added` for new features.
 - `Changed` for changes in existing functionality.
 - `Deprecated` for soon-to-be removed features.
+- `Removed` for now removed features.
 - `Fixed` for any bug fixes.
-- `Improved` for performance improvements.
+- `Security` in case of vulnerabilities.
 
 ## [[v0.3.0] - 2026-05-15 - React Conversion](https://github.com/CFY98/Chroot/compare/v0.2.1...v0.3.0)
 ### Added
@@ -18,8 +19,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 ### Changed
 - React Router in place of custom SPA router
 - React components in place of static HTML files
-
-### Improved
 - Vanilla JS slideshow and scroll transitions preserved with `useEffect`
 - Terminal preserved via `useEffect`
 - App.jsx handles transitions script import over main.js
@@ -38,8 +37,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/):
 ### Changed
 - SPA router with fetch promise-chaining in favour of iframes
 - `HTML2PDF` in favour of `window.print()`
-
-### Improved
 - Carousel from legacy version includes disablers preventing jumping between slides during manual navigation
 
 ## [[v0.2.0] - 2026-05-07 - Terminal Mode Prototype](https://github.com/CFY98/Chroot/tree/v0.2.0)
